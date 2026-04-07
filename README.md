@@ -1,40 +1,47 @@
-# Hi, I'm Shubham 👋  
+# Hi, I'm Shubham 👋
 
-🚀 **DevSecOps & Application Security Engineer** · ☁️ **Cloud Security (AWS & Azure)** · 💻 **Backend & AI Enthusiast**  
+**Full-Stack Engineer** · **AI Builder** · **DevSecOps Enthusiast**
 
-With 10+ years in software engineering, I specialize in weaving **security into development workflows**—making CI/CD pipelines, apps, and cloud environments **faster, safer, and more reliable**.  
-
----
-
-## 🔐 Core Expertise  
-- **Application Security**: Web & API penetration testing, threat modeling, SAST, DAST, SCA  
-- **Cloud Security**: AWS IAM/KMS/SCPs, GuardDuty, Security Hub · Azure AD, Defender for Cloud  
-- **DevSecOps Pipelines**: GitHub Actions, GitLab CI, Snyk, Trivy, container/image scanning  
-- **Infrastructure as Code**: Terraform, AWS CDK, CloudFormation with built-in security controls  
-- **Container & K8s Security**: EKS, AKS, admission controllers, policy enforcement  
+12 years of shipping production software - from fintech payment systems to AI-powered automation platforms. I build backends that handle real money, frontends that don't suck, and AI agents that actually do useful work.
 
 ---
 
-## 🏆 Selected Highlights  
-- 🏦 **Fintech SaaS**: Designed a secure AWS multi-account landing zone with SCPs, KMS, and IAM guardrails  
-- 🏥 **Healthcare**: Automated SAST, SCA & container scans in K8s CI/CD → cut review time by 70%  
-- 🌐 **Enterprise Cloud**: Built Terraform modules for automated guardrails & least-privilege IAM across multi-cloud  
+## 🎯 What I've Shipped
+
+- **Marine Insurance Automation** - Built a platform using Claude AI that reads incoming policy emails, extracts vessel types, coverage amounts, and policy terms, then pushes everything into an underwriting system automatically. Cut policy processing costs by ~40% for a UK market client.
+- **FetchPay (Fintech)** - Scan-and-pay solution integrated with multiple payment providers and PSPs - handling real money, real compliance, real scale.
+- **PPRO (Global Payments Infrastructure)** - Contributed to systems at this Munich-based company using NestJS, DynamoDB, TypeScript, and dynamic config platforms to support local payment methods across markets.
+- **AI Agents & Automation** - Built LinkedIn lead generation agents and business workflow automation using Claude, GPT, and LangChain.
 
 ---
 
-## 👨‍💻 Beyond Security  
-I started as a **backend engineer (Java, Spring Boot, Kotlin, Node.js, React)** and still enjoy building things end-to-end.  
-Recently, I’ve been diving into **AI automation & AI agents**—creating chatbots and workflow agents that run securely in the cloud.
+## 🛠 My Stack
+
+- **Backend**: Java 25, Spring Boot, Spring Reactor, Spring Security, NestJS, TypeScript
+- **Frontend**: ReactJS, Svelte, NextJS - enough to own a feature end to end
+- **Databases**: DynamoDB, MongoDB, PostgreSQL, OpenSearch
+- **AI/LLM**: Claude, GPT, LangChain, AWS Bedrock, Gemini, prompt engineering, LLM security & guardrails
+- **Payments**: PSP integrations, PCI-aware design, local payment methods
+- **Cloud**: AWS (Certified Cloud Practitioner + AI Practitioner), event-driven architectures
 
 ---
 
-## 📚 Currently  
-- Experimenting with **AI + DevSecOps mashups** in my homelab (Proxmox, 128GB RAM, 50TB storage 🚀)  
-- Sharing knowledge on **cloud security, AppSec, and DevSecOps**  
+## 🔐 DevSecOps Side
+
+I don't do security full-time, but I'm the person on the team who actually cares about it. AppSec, container scanning, secure CI/CD pipelines, threat modeling - I bring a security lens to everything I build. ISC2 CC certified.
 
 ---
 
-## 🤝 Let’s Connect  
-- 📧 Email: sbmaggarwal@gmail.com
+## 🏠 After Hours
 
-⚡ *Fun fact: I love jumping into new tech stacks—half for learning, half because curiosity is my favorite debugging tool.* 😄  
+- Running a homelab (Proxmox, 128GB RAM, 50TB storage) for AI experiments and infra tinkering
+- Exploring AI + DevSecOps mashups - making security tools smarter with LLMs
+- BITS Pilani alum (M.Eng)
+
+---
+
+## 🤝 Let's Connect
+
+📧 sbmaggarwal@gmail.com
+
+⚡ *I've gone from Android → Java microservices → full-stack consulting → AI automation. Curiosity is my favorite debugging tool.*
